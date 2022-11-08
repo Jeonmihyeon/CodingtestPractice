@@ -1,9 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/50192595/200577383-13cc2377-df7c-4c07-bde0-fee1adf92158.png)
+# https://school.programmers.co.kr/learn/courses/30/lessons/12934
 
-
-
-```
 def solution(n):
     answer = 0
     a = 1
@@ -12,4 +9,3 @@ def solution(n):
             return (a+1)*(a+1)
         a += 1
     return -1
-```
